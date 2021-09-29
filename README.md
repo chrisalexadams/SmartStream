@@ -3,6 +3,6 @@
 
 #SmartStream
 
-Setting up any payment channel via Superfluid for DAO' and smart contracts (via contract payment splitting)
+Setting up any payment channel via Superfluid for DAO's and smart contracts (via contract payment splitting)
 
 SSAAS - Smart Streaming as a Service.  Hand's off HR. 
